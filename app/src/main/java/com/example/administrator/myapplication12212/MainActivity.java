@@ -22,6 +22,51 @@ public class MainActivity extends ActionBarActivity {
         //d
         ///df
         Log.i("dddddd","ddddddddddddddddddddddd");
+        //测试
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //测试
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //测试
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //测试
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //测试
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        //d
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
 
     }
 
