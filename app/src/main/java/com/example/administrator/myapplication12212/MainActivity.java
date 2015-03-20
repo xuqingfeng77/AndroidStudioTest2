@@ -67,6 +67,17 @@ public class MainActivity extends ActionBarActivity {
         //d
         ///df
         Log.i("dddddd","ddddddddddddddddddddddd");
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+        ///df
+        Log.i("dddddd","ddddddddddddddddddddddd");
+
+
 
     }
 
